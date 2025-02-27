@@ -7,3 +7,8 @@ public class week4 {
       
     }
 }
+public class Hallig{
+    public static void main(String[] args){
+        System.out.println("Hello, this is Hallig contributing to the project.");
+    }
+}

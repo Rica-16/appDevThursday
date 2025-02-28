@@ -1,5 +1,5 @@
 public class Clapis {
-    public static display() {
+    public static void display() {
         System.out.println("Hello! This is Clapis contributing to the project.");
     }
 }

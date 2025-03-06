@@ -3,7 +3,7 @@ public class Week4 {
         System.out.println("Collaborative Java Project\n");
 
         // Call each student's method
-        Student1.display();
+        Lopez.display();
         Gollena.display();
         Piano.display();
         Hallig.display();

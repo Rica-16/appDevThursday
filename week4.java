@@ -23,6 +23,7 @@ Hallig.display()
 	Hernandez.display(); 
 	Piano.display();
 	KPClark.display();
+        DelaVega.display();
 
     }
 }

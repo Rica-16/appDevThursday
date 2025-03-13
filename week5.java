@@ -89,6 +89,7 @@ public class Cequena {
 
 
 		NMasagca.display();
+        Sandoval.display();
 
         Dolom.display();
         

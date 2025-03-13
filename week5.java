@@ -91,6 +91,9 @@ public class Cequena {
 		NMasagca.display();
         Sandoval.display();
 
+        Allosada.display();
+
+
         Dolom.display();
         
 
@@ -114,6 +117,7 @@ public class Cequena {
 
 
         Larioza.display();
+
 
 
 

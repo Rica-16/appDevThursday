@@ -89,6 +89,7 @@ public class Cequena {
 
 
 		NMasagca.display();
+       Palatan.display();
 
         Allosada.display();
 
